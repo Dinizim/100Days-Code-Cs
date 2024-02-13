@@ -16,4 +16,7 @@ I accepted this challenge with the intention of solidifying my skills with the .
 - Applying and creating various types of games
 ### Extras
 I will be uploading all my codes and summaries to my GitHub repository.
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Dinizim)](https://github.com/Dinizim)
 - [My GitHub repository](https://github.com/Dinizim/100Days-Code-Cs)
+- [Chris Github](https://github.com/VChristinne)
+- [Jeff Github](https://github.com/JfJeffx)
