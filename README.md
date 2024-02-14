@@ -1,16 +1,21 @@
-## 4 Pillars of Object-Oriented Programming (OOP)
+# 100Days-Code-Cs
 
-### Abstraction:
-- Representation of real-world objects through classes.
-- Use of classes to create objects, avoiding code repetition.
-- Envisioning the actions of the object in the system, considering identity, properties, and methods.
-   - **Identity:** Unique name for the object.
-   - **Properties:** Characteristics such as name, size, color.
-   - **Methods:** Actions or events, such as turnOn(), run(), turnOff().
-- Abstract classes deepen abstraction by hiding implementation details from classes that do not need to know them.
+I accepted this challenge with the intention of solidifying my skills with the .NET platform. I will embark on this challenge alongside 2 friends.
 
-### Inheritance:
-- Enables the creation of a class that inherits characteristics and functionalities from another.
-- Practical example with the Animal, Tiger, and Monkey classes, where the subclasses share properties and methods of the Animal class.
-
-These are two of the four fundamental pillars of OOP, contributing to the creation of efficient and modularized systems.
+## Topic
+- C# and App Development with .NET MAUI (Cross-platform app user interface)
+- Data Structures
+- Game Development
+### (Early Days)
+- Reviewing what I already know about C# and .NET (OOP, Json, Database Connections, File I/O)
+### (Throughout the Challenge)
+- Understanding App Development concepts
+- Building various apps
+- Studying various types of data structures (concepts and practices)
+- Studying GameDev concepts and the Godot Engine
+- Applying and creating various types of games
+### Extras
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/Dinizim)](https://github.com/Dinizim)
+- [My GitHub repository](https://github.com/Dinizim/100Days-Code-Cs)
+- [Chris Github](https://github.com/VChristinne)
+- [Jeff Github](https://github.com/JfJeffx)
