@@ -12,5 +12,6 @@
 ### Inheritance:
 - Enables the creation of a class that inherits characteristics and functionalities from another.
 - Practical example with the Animal, Tiger, and Monkey classes, where the subclasses share properties and methods of the Animal class.
+ 
 
 These are two of the four fundamental pillars of OOP, contributing to the creation of efficient and modularized systems.
