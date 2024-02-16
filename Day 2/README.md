@@ -1,6 +1,6 @@
-## Connection to SQLite Database
-###Packages: System.Data.SQLite.Core
-Name: DAL + project name in folders: Database
+### Connection to SQLite Database
+## Packages: System.Data.SQLite.Core
+Name: DAL + project                 name in folders: Database
 
 ## 2 Important Properties for Connecting to a Database
 
@@ -8,7 +8,7 @@ Name: DAL + project name in folders: Database
 public static string path = Directory.GetCurrentDirectory() + "\\database.sqlite";
 private static SQLiteConnection sqliteconnection
 ```
-### 2 Important Methods for Establishing Connection
+## 2 Important Methods for Establishing Connection
 ```csharp
 private static SQLiteConnection DbConnection()
 {
